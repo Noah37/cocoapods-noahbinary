@@ -9,3 +9,4 @@ A description of cocoapods-noahbinary.
 ## Usage
 
     $ pod spec noahbinary POD_NAME
+iOS binary plugins for cocoapods.
